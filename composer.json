@@ -25,7 +25,7 @@
         "laravel/dusk": "^6.0"
     },
     "require-dev": {
-        "mockery/mockery": "^1.4.0",
+        "mockery/mockery": "^1.4",
         "phpunit/phpunit": "^9.0",
         "orchestra/testbench": "^4.0|^5.0"
     },
